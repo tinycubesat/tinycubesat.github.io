@@ -5,4 +5,34 @@
          <lastmod>2021-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://tynecubeat.github.io/changelog/</loc>
+         <lastmod>2021-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tynecubeat.github.io/client/</loc>
+         <lastmod>2021-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tynecubeat.github.io/errors/</loc>
+         <lastmod>2021-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tynecubeat.github.io/intro/</loc>
+         <lastmod>2021-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tynecubeat.github.io/references/</loc>
+         <lastmod>2021-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tynecubeat.github.io/server/</loc>
+         <lastmod>2021-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
