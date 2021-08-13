@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://tynecubeat.github.io/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tynecubeat.github.io/changelog/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/changelog/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tynecubeat.github.io/client/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/client/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tynecubeat.github.io/errors/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/errors/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tynecubeat.github.io/intro/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/intro/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tynecubeat.github.io/references/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/references/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tynecubeat.github.io/server/</loc>
-         <lastmod>2021-06-26</lastmod>
+         <loc>https://tinycubesat.github.io/server/</loc>
+         <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
