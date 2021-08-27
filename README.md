@@ -1,4 +1,4 @@
-# tynecubesat.github.io
+# tinycubesat.github.io
 
 Website
 
@@ -6,11 +6,23 @@ Website
 
 ### Create env
 
+#### Linux
+
     virtualenv .venv
+
+#### Windows
+
+    python -m venv .venv
 
 ### Activate env
 
+#### Linux
+
     source .venv/bin/activate
+
+#### Windows
+
+    .venv/Scripts/activate
 
 ## Install requirements
 
@@ -23,7 +35,3 @@ Website
 ## Building
 
     mkdocs build
-
-## Deploy
-
-    mkdocs gh-deploy --force
