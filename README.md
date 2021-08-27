@@ -23,3 +23,7 @@ Website
 ## Building
 
     mkdocs build
+
+## Deploy
+
+    mkdocs gh-deploy --force

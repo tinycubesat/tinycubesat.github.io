@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Bem vindo ao TyneCubeSat
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+TyneCubeSat é um micro projeto de um [CubeSat](https://en.wikipedia.org/wiki/CubeSat) que te dá um ponta-pé inicial nos estudos da engenharia espacial visando a construção de um simulador de satélite real de coleta de dados, estação meteorológica ou projeto de IoT.
 
-## Commands
+Esse é apenas um diário de bordo dos meus estudos sobre como construir um satélite com arduino em casa.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Minha principal motivação para compartilha esse material, vem da percepção de não ter encontrado tanto conteúdo na internet em português sobre o assunto, que aborde de forma simples para qualquer pessoa iniciante ou intermediário também montar o seu protótipo de baixo custo em casa.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Não sou nenhum especialista da área, apenas um geek que gosta de fazer coisas nas horás vagas. Sinta-se a vontade para entrar em contato dar seu feedback se esse material te ajudou de alguma forma.
